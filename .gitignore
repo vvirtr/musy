@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.idea/
+.vscode/
+
+# runtime
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
